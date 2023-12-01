@@ -177,7 +177,7 @@ $$
 Then, the stationary distribution $\pi_ \infty$ is:
 
 $$
-\pi _ \infty =
+\pi _ \infty \approx
 \begin{bmatrix}
 0.2 \\
 0.5  \\
